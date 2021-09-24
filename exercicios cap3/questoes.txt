@@ -1,0 +1,20 @@
+1 faça um algoritmo que leia um numero inteiro diferente de zero e diga se este é positivo ou negativo
+
+2 faça um algoritmo que leia um numero inteiro e diga se este é positivo, negativo ou zero. utilize a 
+sequencia de comandos se encadeados
+
+3 faça um algoritmo que datermine se um dado numero é par ou impar (utilize o operador resto: <dividendo>
+resto:<divisor>, que retorna o resto da divisão inteir de <dividendo>/<divisor>)
+
+4 faça um algoritmo que simule uma calculadora com quatro operaç~es basicas. o algoritmo deve solicitar ao usuario a entrada de dois operandos e da operação a ser executada, na forma de um menu. dependendo da opção escolhida, deve ser executada a operação solicitada e escrito seu resultado. Utilize uma variavel caracterepara armazenar a operação e utilize o comando caso para escolher a operação a ser executada a partir do operador
+
+5 faça um algoritmo que leia as respostas de três questões de multipla escolha (a, b, c, d). em seguida, 
+leia o gabarito dessas respostas, ou seja, as respostas corretas. Depois, compare as respostas dadas com as 
+do gabarito e indique quantas respostas estão corretas
+
+6 faça um algoritmo que leia tres valores que reprsentam os lados de um triangulo. primeiramente, verifique 
+se os lados podem formar um triangulo (a soma de dois lados não pode ser menor que o terceiro lado). caso 
+possa formar um triangulo, indique se este é equilátero, isóceles ou escaleno.
+
+7 dado um ano d.c, indique se este é um ano bissexto ou não. considere que para o ano ser bissexto basta que 
+seja divisivel por 400. caso contrário este precisará ser divisivel por 4 e não ser divisivel por 100.
