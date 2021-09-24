@@ -26,24 +26,24 @@ int main(){
     //
     scanf("%c",&questao1);
     //questao1 = getchar();
-    printf("COLOQUE A SUA RESPOSTA DA QUESTAO 2:");
+    printf("COLOQUE A SUA RESPOSTA DA QUESTAO 2:"); // este comando não responde
     scanf("%c%c",&questao2);
     //questao2 = getchar();
     printf("COLOQUE A SUA RESPOSTA DA QUESTAO 3:");
     scanf("%c%c",&questao3);
     
     
-    printf("COLOQUE A SUA RESPOSTA DA QUESTAO 1 DO GABARITO:");
+    printf("COLOQUE A SUA RESPOSTA DA QUESTAO 1 DO GABARITO:"); // este comando não responde
     scanf("%c",&gabarito1);
     //gabarito1 = getchar();
     printf("COLOQUE A SUA RESPOSTA DA QUESTAO 2 DO GABARITO:");
     //
     scanf("%c%c",&gabarito2);
     //gabarito2 = getchar();
-    printf("COLOQUE A SUA RESPOSTA DA QUESTAO 3 DO GABARITO:");
+    printf("COLOQUE A SUA RESPOSTA DA QUESTAO 3 DO GABARITO:");// este comando não responde
     scanf("%c%c",&gabarito3);
     
-
+// a partir daqui aparece a resposta, mas é a resposta errada para a operação :)
     if (questao1 == gabarito1 ){
         printf("QUESTAO 1 ESTA CERTA! ");
         }   
